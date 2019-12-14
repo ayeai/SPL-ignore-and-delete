@@ -1,0 +1,2 @@
+# SPL
+Singularity Public License
